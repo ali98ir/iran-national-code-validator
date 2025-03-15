@@ -16,7 +16,7 @@ A simple PHP function to validate Iranian national ID codes (10-digit numbers) b
    require_once 'validateIranNationalCode.php';
    
    
-##Usage
+## Usage
 ```php
 $nationalCode = "0081251266"; // Example valid code
 $result = validateIranNationalCode($nationalCode);
@@ -28,7 +28,7 @@ if ($result) {
 }
 ```
 
-##Example Output
+## Example Output
 Code: 0081251266 - Valid
 Code: 1234567890 - Invalid
 Code: 1111111111 - Invalid
