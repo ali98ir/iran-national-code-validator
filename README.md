@@ -29,7 +29,9 @@ if ($result) {
 ```
 
 ## Example Output
+```
 Code: 0081251266 - Valid
 Code: 1234567890 - Invalid
 Code: 1111111111 - Invalid
 Code: 12345 - Invalid
+```
